@@ -1,6 +1,0 @@
-- Scaffold: Vite + React + TypeScript
-- Keep UI simple and clean; avoid extra pages/modals/animations
-- Prefer small, focused components
-- Use React hooks (`useState`) for state management
-- If adding dependencies, keep them minimal
-- After changes, ensure `npm run build` succeeds
